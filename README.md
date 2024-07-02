@@ -8,7 +8,7 @@ https://quad-btodo-task.vercel.app/
 
 ## Features
 
-- Add task with tital and description
+- Add task with title and description
 - Display tasks in list format
 - Edit task
 - Delete Task
@@ -35,7 +35,7 @@ https://github.com/sahilkarnekar1/quadBtodoTask.git
 ```bash
   npm install
   
-  this command install all the required dependancies
+  this command install all the required dependencies
 
   run command 
   npm start
